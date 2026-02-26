@@ -1,6 +1,6 @@
 """
 🚀 Clean & Beautiful File Sharing Bot (Unicode Edition)
-Features: Stunning UI, Force Join (Req + Join), File Batching, Fast Broadcast, Stats, Auto-Delete & Forward Protect
+Features: Stunning UII, Force Join (Req + Join), File Batching, Fast Broadcast, Stats, Auto-Delete & Forward Protect
 """
 
 import logging
